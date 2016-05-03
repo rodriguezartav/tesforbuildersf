@@ -1,0 +1,9 @@
+{
+	"deploy": "SALESFORCE",
+	"notify":{
+		"channel":"general"
+	},
+	"apps": [
+		{"name": "test"}
+	]
+}
